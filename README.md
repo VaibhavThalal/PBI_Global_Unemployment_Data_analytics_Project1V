@@ -1,2 +1,4 @@
-# PBI_Global_Unemployment_Data_analytics_Project1V
-Global Unemployment Data Analysis Dashboard - Power BI Project
+## **Global Unemployment Data analytics - Power BI Project**
+
+Welcome to the COVID-19 Analysis Dashboard project! This repository contains a Power BI project focused on analyzing COVID-19 data.
+
