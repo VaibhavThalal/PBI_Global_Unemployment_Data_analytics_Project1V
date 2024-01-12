@@ -1,11 +1,8 @@
-## **Global Unemployment Data analytics - Power BI Project**
+# Global Unemployment Data analytics - Power BI Project
 
 ![Final_dashboard](Final_dashboard.png)
 
 # 🌐 Overview:
--Welcome to the Global Unemployment Data analytics Power BI Dashboard project! This repository contains a Power BI project focused on analyzing Global Unemployment data.
-
-# Global Unemployment Data Analytics Project
 
 ## Overview
 Welcome to the Global Unemployment Data Analytics project! This repository hosts an interactive Power BI dashboard analyzing global unemployment trends across multiple years, with a specific focus on gender disparities. Gain comprehensive insights into the complexities of the global workforce through detailed visualizations and actionable data.
